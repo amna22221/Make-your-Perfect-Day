@@ -1,0 +1,27 @@
+.corkboard {
+    width: 1300px;
+    height: 600px;
+    background-color: #bb916c;
+    border: 5px solid #fdaeae;
+    margin-top: 20px;
+}
+/* Style the entire background of the website */
+body {
+    background-color: #e0c1a6;
+    font-family:'Times New Roman', Times, serif; 
+    color: #615539;
+}
+
+/* Style the main title*/
+h1{
+    color: #7e6651;
+    font-size: 32px;
+}
+
+/* Style the subtitle */
+.subtitle {
+    color: #7e6651;
+    font-style: italic;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
